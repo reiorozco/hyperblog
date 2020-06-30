@@ -1,0 +1,5 @@
+Esta la histora de Rei Orozco
+
+Rei Orozco nacio en Valledupar y tiene 26 años
+
+Ahora mismo esta creando este documento para practicar el uso de git
