@@ -7,4 +7,4 @@ Ahora mismo esta creando este documento para practicar el uso de git.
 
 Le gusta mucho hacer deporte y comer bien. Tambien le gusta estudiar code.
 
-Su deporte favorita es pracicar MTB.
+Su deporte favorito es practicar MTB.
