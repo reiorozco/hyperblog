@@ -5,4 +5,4 @@ pronto cumple años en Julio
 
 Ahora mismo esta creando este documento para practicar el uso de git.
 
-Le gusta mucho hacer deporte y comer bien.
+Le gusta mucho hacer deporte y comer bien. Tambien le gusta estudiar code.
