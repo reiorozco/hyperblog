@@ -8,3 +8,5 @@ Ahora mismo esta creando este documento para practicar el uso de git.
 Le gusta mucho hacer deporte y comer bien. Tambien le gusta estudiar code.
 
 Su deporte favorito es practicar MTB.
+
+Pracitca con su compañero de estudio Jean.
